@@ -57,45 +57,58 @@ function BookCard({ book, expanded, onToggle, isFavorite, onToggleFavorite }) {
 
   return (
     <div className={`book-card ${book.rec ? 'featured' : ''} ${expanded ? 'expanded' : ''}`}>
-      <div className="book-header" onClick={onToggle}>
-        <div className="book-title-block">
-          <div className="book-title">{book.t}</div>
-          <div className="book-author">{book.a}</div>
-        </div>
-        <div className="book-header-right">
-          <button
-            className={`fav-btn ${isFavorite ? 'on' : ''}`}
-            onClick={(e) => { e.stopPropagation(); onToggleFavorite(book.id); }}
-            aria-label={isFavorite ? 'Remove from reading list' : 'Add to reading list'}
-            title={isFavorite ? 'Remove from reading list' : 'Add to reading list'}
-          >
-            {isFavorite ? '★' : '☆'}
-          </button>
-          {book.rec && <span className="badge-rec">Recommended</span>}
-        </div>
-      </div>
-      <div className="book-meta">
-        {book.themes.map(t => {
-          const c = themeColor(t)
-          return (
-            <span key={t} className="book-tag" style={{ background: c.bg, color: c.fg }}>
-              {themeLabel(t)}
+      <div className="book-layout">
+        {book.coverUrl && (
+          <img
+            className="book-cover"
+            src={book.coverUrl}
+            alt=""
+            loading="lazy"
+            onError={e => { e.currentTarget.style.display = 'none' }}
+          />
+        )}
+        <div className="book-content">
+          <div className="book-header" onClick={onToggle}>
+            <div className="book-title-block">
+              <div className="book-title">{book.t}</div>
+              <div className="book-author">{book.a}</div>
+            </div>
+            <div className="book-header-right">
+              <button
+                className={`fav-btn ${isFavorite ? 'on' : ''}`}
+                onClick={(e) => { e.stopPropagation(); onToggleFavorite(book.id); }}
+                aria-label={isFavorite ? 'Remove from reading list' : 'Add to reading list'}
+                title={isFavorite ? 'Remove from reading list' : 'Add to reading list'}
+              >
+                {isFavorite ? '★' : '☆'}
+              </button>
+              {book.rec && <span className="badge-rec">Recommended</span>}
+            </div>
+          </div>
+          <div className="book-meta">
+            {book.themes.map(t => {
+              const c = themeColor(t)
+              return (
+                <span key={t} className="book-tag" style={{ background: c.bg, color: c.fg }}>
+                  {themeLabel(t)}
+                </span>
+              )
+            })}
+            <span className="book-tag book-tag-neutral">
+              <EnergyDots level={book.energy} /> {energyLabel}
             </span>
-          )
-        })}
-        <span className="book-tag book-tag-neutral">
-          <EnergyDots level={book.energy} /> {energyLabel}
-        </span>
-        <span className="book-tag book-tag-neutral">{lengthLabel}</span>
-      </div>
-      {expanded && book.note && (
-        <div className="book-note">{book.note}</div>
-      )}
-      {expanded && !book.note && (
-        <div className="book-note book-note-empty">
-          No curated notes yet for this book. Themes and metadata were auto-tagged from author and title patterns.
+            <span className="book-tag book-tag-neutral">{lengthLabel}</span>
+          </div>
+          {expanded && book.note && (
+            <div className="book-note">{book.note}</div>
+          )}
+          {expanded && !book.note && (
+            <div className="book-note book-note-empty">
+              No curated notes yet for this book. Themes and metadata were auto-tagged from author and title patterns.
+            </div>
+          )}
         </div>
-      )}
+      </div>
     </div>
   )
 }

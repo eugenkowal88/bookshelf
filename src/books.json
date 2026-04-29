@@ -288,7 +288,8 @@
     "energy": 3,
     "length": "medium",
     "rec": true,
-    "note": "Jung's own entry point to his work, written for general readers at the end of his life. The natural anchor for the inner-work thread. Read this before tackling your Collected Works volumes."
+    "note": "Jung's own entry point to his work, written for general readers at the end of his life. The natural anchor for the inner-work thread. Read this before tackling your Collected Works volumes.",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780440351832-M.jpg"
   },
   {
     "id": 24,
@@ -830,7 +831,8 @@
     "energy": 2,
     "length": "long",
     "rec": true,
-    "note": ""
+    "note": "",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781594205071-M.jpg"
   },
   {
     "id": 69,
@@ -1125,7 +1127,8 @@
     "energy": 3,
     "length": "medium",
     "rec": true,
-    "note": "The deepest, darkest book on your shelf. Meditation on violence and metaphysics disguised as a Western. Demanding prose. Judge Holden is one of literature's great philosophical villains."
+    "note": "The deepest, darkest book on your shelf. Meditation on violence and metaphysics disguised as a Western. Demanding prose. Judge Holden is one of literature's great philosophical villains.",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780679728757-M.jpg"
   },
   {
     "id": 93,
