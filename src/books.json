@@ -1,0 +1,3205 @@
+[
+  {
+    "id": 0,
+    "t": "The Color of Magic: A Discworld Novel",
+    "a": "Terry Pratchett",
+    "themes": [
+      "fantasy"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 1,
+    "t": "The Works of Edgar Allan Poe - Volume 4",
+    "a": "Edgar Allan Poe",
+    "themes": [
+      "horror"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 2,
+    "t": "The Works of Edgar Allan Poe - Volume 3",
+    "a": "Edgar Allan Poe",
+    "themes": [
+      "horror"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 3,
+    "t": "The Works of Edgar Allan Poe - Volume 2",
+    "a": "Edgar Allan Poe",
+    "themes": [
+      "horror"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 4,
+    "t": "Edgar Allan Poe's Complete Poetical Works",
+    "a": "Edgar Allan Poe",
+    "themes": [
+      "horror"
+    ],
+    "energy": 2,
+    "length": "long",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 5,
+    "t": "Grimm's Fairy Tales",
+    "a": "Jacob Grimm",
+    "themes": [
+      "folklore"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 6,
+    "t": "Grimm's Fairy Stories",
+    "a": "Jacob Grimm",
+    "themes": [
+      "folklore"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 7,
+    "t": "What My Bones Know: A Memoir of Healing from Complex Trauma",
+    "a": "Stephanie Foo",
+    "themes": [
+      "psychology"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": "Memoir of complex PTSD and recovery. Researched, raw, hopeful."
+  },
+  {
+    "id": 8,
+    "t": "Complete Ghost Stories",
+    "a": "M. R. James",
+    "themes": [
+      "horror"
+    ],
+    "energy": 1,
+    "length": "medium",
+    "rec": false,
+    "note": "The master of the antiquarian ghost story. Quiet, civilized, deeply creepy."
+  },
+  {
+    "id": 9,
+    "t": "The Demon-Haunted World: Science as a Candle in the Dark",
+    "a": "Carl Sagan",
+    "themes": [
+      "science"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 10,
+    "t": "Dungeon Crawler Carl: A LitRPG/Gamelit Adventure",
+    "a": "Matt Dinniman",
+    "themes": [
+      "fantasy"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 11,
+    "t": "Fahrenheit 451: A Novel",
+    "a": "Ray Bradbury",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 12,
+    "t": "The Hobbit",
+    "a": "J. R. R. Tolkien",
+    "themes": [
+      "fantasy"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 13,
+    "t": "Being Mortal: Medicine and What Matters in the End",
+    "a": "Atul Gawande",
+    "themes": [
+      "meaning",
+      "science"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": "What medicine gets wrong about death. Essential reading on aging and end-of-life care."
+  },
+  {
+    "id": 14,
+    "t": "Influence, New and Expanded",
+    "a": "Robert B. Cialdini",
+    "themes": [
+      "psychology"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": "The classic on persuasion and the cognitive levers people pull. Foundational popular psychology."
+  },
+  {
+    "id": 15,
+    "t": "Inner Work: A Four-Step Journey to Self-Transformation",
+    "a": "Robert A. Johnson",
+    "themes": [
+      "psychology",
+      "meaning"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": true,
+    "note": ""
+  },
+  {
+    "id": 16,
+    "t": "Your Mind, Your Universe",
+    "a": "Brandon M. Procak",
+    "themes": [
+      "uncategorized"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 17,
+    "t": "Reality Is Not What It Seems: The Journey to Quantum Gravity",
+    "a": "Carlo Rovelli",
+    "themes": [
+      "science"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 18,
+    "t": "Rethinking Happiness",
+    "a": "Philippe Brouillard",
+    "themes": [
+      "uncategorized"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 19,
+    "t": "Orwell Collection: Animal Farm & 1984",
+    "a": "George Orwell",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "short",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 20,
+    "t": "Stephen Fry's Victorian Secrets",
+    "a": "Stephen Fry",
+    "themes": [
+      "uncategorized"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 21,
+    "t": "Sherlock Holmes: The Definitive Collection",
+    "a": "Stephen Fry",
+    "themes": [
+      "mystery"
+    ],
+    "energy": 1,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 22,
+    "t": "George Orwell's 1984: Audible Original adaptation",
+    "a": "George Orwell",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 23,
+    "t": "Man and His Symbols",
+    "a": "Carl Gustav Jung",
+    "themes": [
+      "psychology",
+      "meaning"
+    ],
+    "energy": 3,
+    "length": "medium",
+    "rec": true,
+    "note": "Jung's own entry point to his work, written for general readers at the end of his life. The natural anchor for the inner-work thread. Read this before tackling your Collected Works volumes."
+  },
+  {
+    "id": 24,
+    "t": "The Road",
+    "a": "Cormac McCarthy",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 25,
+    "t": "The German Genius",
+    "a": "Peter Watson",
+    "themes": [
+      "uncategorized"
+    ],
+    "energy": 2,
+    "length": "long",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 26,
+    "t": "In.: A Graphic Novel",
+    "a": "Will McPhail",
+    "themes": [
+      "uncategorized"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 27,
+    "t": "The Rise and Fall of the Dinosaurs",
+    "a": "Steve Brusatte",
+    "themes": [
+      "science"
+    ],
+    "energy": 1,
+    "length": "medium",
+    "rec": false,
+    "note": "Modern paleontology by a working scientist. Surprisingly thrilling."
+  },
+  {
+    "id": 28,
+    "t": "Infinite Powers: How Calculus Reveals the Secrets of the Universe",
+    "a": "Steven H. Strogatz",
+    "themes": [
+      "science"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": "How calculus reveals the universe. Strogatz makes math feel inevitable."
+  },
+  {
+    "id": 29,
+    "t": "The Confident Mind",
+    "a": "Nate Zinsser",
+    "themes": [
+      "psychology"
+    ],
+    "energy": 1,
+    "length": "medium",
+    "rec": false,
+    "note": "Performance psychology from a sports psychologist. Tactical."
+  },
+  {
+    "id": 30,
+    "t": "Chaos: Making a New Science",
+    "a": "James Gleick",
+    "themes": [
+      "science"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": "How chaos theory emerged. Beautifully written intellectual history."
+  },
+  {
+    "id": 31,
+    "t": "Bleak House",
+    "a": "Charles Dickens",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "long",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 32,
+    "t": "Uncle Tom's Cabin",
+    "a": "Harriet Beecher Stowe",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 33,
+    "t": "Three James Herriot Classics",
+    "a": "James Herriot",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 34,
+    "t": "The Complete Essays of Montaigne",
+    "a": "Michel Eyquem Montaigne",
+    "themes": [
+      "meaning"
+    ],
+    "energy": 2,
+    "length": "long",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 35,
+    "t": "The Grieving Body",
+    "a": "Mary-Frances O'Connor",
+    "themes": [
+      "psychology",
+      "science"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": "How grief lives in the body. Science meets compassion."
+  },
+  {
+    "id": 36,
+    "t": "Extraordinary Doctor",
+    "a": "Nimesh Patel",
+    "themes": [
+      "uncategorized"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 37,
+    "t": "Underwater Welder",
+    "a": "Jeff Lemire",
+    "themes": [
+      "uncategorized"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 38,
+    "t": "Bulfinch's Mythology",
+    "a": "Thomas Bulfinch",
+    "themes": [
+      "folklore"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 39,
+    "t": "Bone: The Complete Cartoon Epic",
+    "a": "Jeff Smith",
+    "themes": [
+      "uncategorized"
+    ],
+    "energy": 2,
+    "length": "long",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 40,
+    "t": "Agatha Christie: The Collection",
+    "a": "Agatha Christie",
+    "themes": [
+      "mystery"
+    ],
+    "energy": 1,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 41,
+    "t": "The Rise and Reign of the Mammals",
+    "a": "Steve Brusatte",
+    "themes": [
+      "science"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 42,
+    "t": "I Am a Cat",
+    "a": "Soseki Natsume",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 43,
+    "t": "Ghost Stories of an Antiquary Part 2",
+    "a": "M. R. James",
+    "themes": [
+      "horror"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 44,
+    "t": "Ghost Stories of an Antiquary",
+    "a": "M. R. James",
+    "themes": [
+      "horror"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 45,
+    "t": "The World of Yesterday",
+    "a": "Stefan Zweig",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 46,
+    "t": "Beware of Pity",
+    "a": "Stefan Zweig",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 47,
+    "t": "A Study in Scarlet",
+    "a": "Arthur Conan Doyle",
+    "themes": [
+      "uncategorized"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 48,
+    "t": "Discourses",
+    "a": "Niccolò Machiavelli",
+    "themes": [
+      "meaning"
+    ],
+    "energy": 3,
+    "length": "long",
+    "rec": false,
+    "note": "Machiavelli's longer, deeper work — beyond The Prince. Republican political theory."
+  },
+  {
+    "id": 49,
+    "t": "Atomic Habits",
+    "a": "James Clear",
+    "themes": [
+      "psychology"
+    ],
+    "energy": 1,
+    "length": "medium",
+    "rec": false,
+    "note": "The popular habit-change book. Practical, repetitive in places, useful."
+  },
+  {
+    "id": 50,
+    "t": "The Whole-Brain Child",
+    "a": "Daniel J. Siegel",
+    "themes": [
+      "uncategorized"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 51,
+    "t": "The Prince",
+    "a": "Niccolò Machiavelli",
+    "themes": [
+      "meaning"
+    ],
+    "energy": 3,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 52,
+    "t": "Little Women",
+    "a": "Louisa May Alcott",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 53,
+    "t": "Algernon Blackwood: The Complete Supernatural Stories",
+    "a": "Algernon Blackwood",
+    "themes": [
+      "horror",
+      "meaning"
+    ],
+    "energy": 2,
+    "length": "long",
+    "rec": false,
+    "note": "Cosmic dread done with intelligence. Start with The Willows and The Wendigo. More atmospheric and ideas-driven than Lovecraft."
+  },
+  {
+    "id": 54,
+    "t": "Much Darker Days",
+    "a": "Andrew Lang",
+    "themes": [
+      "uncategorized"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 55,
+    "t": "The Red Fairy Book",
+    "a": "Andrew Lang",
+    "themes": [
+      "folklore"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 56,
+    "t": "Alice's Adventures in Wonderland",
+    "a": "Lewis Carroll",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 57,
+    "t": "Through The Looking-Glass",
+    "a": "Lewis Carroll",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 58,
+    "t": "The Brown Fairy Book",
+    "a": "Andrew Lang",
+    "themes": [
+      "folklore"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 59,
+    "t": "The Crimson Fairy Book",
+    "a": "Andrew Lang",
+    "themes": [
+      "folklore"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 60,
+    "t": "The Orange Fairy Book",
+    "a": "Andrew Lang",
+    "themes": [
+      "folklore"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 61,
+    "t": "The Olive Fairy Book",
+    "a": "Andrew Lang",
+    "themes": [
+      "folklore"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 62,
+    "t": "The Lilac Fairy Book",
+    "a": "Andrew Lang",
+    "themes": [
+      "folklore"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 63,
+    "t": "33 Strategies of War",
+    "a": "Robert Greene",
+    "themes": [
+      "psychology"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 64,
+    "t": "48 Laws of Power",
+    "a": "Robert Greene",
+    "themes": [
+      "psychology"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 65,
+    "t": "The 33 Strategies of War",
+    "a": "Robert Greene",
+    "themes": [
+      "psychology"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 66,
+    "t": "Mastery",
+    "a": "Robert Greene",
+    "themes": [
+      "psychology"
+    ],
+    "energy": 2,
+    "length": "long",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 67,
+    "t": "Mastery (paperback)",
+    "a": "Robert Greene",
+    "themes": [
+      "psychology"
+    ],
+    "energy": 2,
+    "length": "long",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 68,
+    "t": "Behave: The Biology of Humans at Our Best and Worst",
+    "a": "Robert M. Sapolsky",
+    "themes": [
+      "science"
+    ],
+    "energy": 2,
+    "length": "long",
+    "rec": true,
+    "note": ""
+  },
+  {
+    "id": 69,
+    "t": "Fight Club: A Novel",
+    "a": "Chuck Palahniuk",
+    "themes": [
+      "uncategorized"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 70,
+    "t": "Interviews with the Masters",
+    "a": "Robert Greene",
+    "themes": [
+      "psychology"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 71,
+    "t": "A Primate's Memoir",
+    "a": "Robert M. Sapolsky",
+    "themes": [
+      "science",
+      "psychology"
+    ],
+    "energy": 1,
+    "length": "medium",
+    "rec": false,
+    "note": "Sapolsky's years studying baboons in Kenya. Funny, humane, surprisingly moving. The lightest entry to his work."
+  },
+  {
+    "id": 72,
+    "t": "A Short History of Nearly Everything",
+    "a": "Bill Bryson",
+    "themes": [
+      "science"
+    ],
+    "energy": 1,
+    "length": "long",
+    "rec": false,
+    "note": "Bryson tours all of science. Light, charming, never demanding. Good palate cleanser."
+  },
+  {
+    "id": 73,
+    "t": "Gulp: Adventures on the Alimentary Canal",
+    "a": "Mary Roach",
+    "themes": [
+      "science"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 74,
+    "t": "Black Beauty",
+    "a": "Anna Sewell",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 75,
+    "t": "Gut: The Inside Story of Our Body's Most Underrated Organ",
+    "a": "Giulia Enders",
+    "themes": [
+      "science"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 76,
+    "t": "Immune: A Journey into the Mysterious System That Keeps You Alive",
+    "a": "Philipp Dettmer",
+    "themes": [
+      "science"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": "How your immune system works, explained vividly. The Kurzgesagt creator's full-length book."
+  },
+  {
+    "id": 77,
+    "t": "The Gene: An Intimate History",
+    "a": "Siddhartha Mukherjee",
+    "themes": [
+      "science"
+    ],
+    "energy": 2,
+    "length": "long",
+    "rec": false,
+    "note": "History and science of genetics. Personal, comprehensive, gripping."
+  },
+  {
+    "id": 78,
+    "t": "The Emperor of All Maladies",
+    "a": "Siddhartha Mukherjee",
+    "themes": [
+      "science"
+    ],
+    "energy": 2,
+    "length": "long",
+    "rec": false,
+    "note": "Biography of cancer. Pulitzer winner. Devastating and necessary."
+  },
+  {
+    "id": 79,
+    "t": "Why Zebras Don't Get Ulcers",
+    "a": "Robert Sapolsky",
+    "themes": [
+      "psychology",
+      "science"
+    ],
+    "energy": 2,
+    "length": "long",
+    "rec": false,
+    "note": "Stress, the body, and the mind. More accessible than Behave but still substantive."
+  },
+  {
+    "id": 80,
+    "t": "No Self, No Problem",
+    "a": "Chris Niebauer",
+    "themes": [
+      "psychology",
+      "meaning"
+    ],
+    "energy": 2,
+    "length": "short",
+    "rec": false,
+    "note": "Where neuroscience catches up to Buddhism. Short and provocative."
+  },
+  {
+    "id": 81,
+    "t": "The 48 Laws of Power",
+    "a": "Robert Greene",
+    "themes": [
+      "psychology"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 82,
+    "t": "Why Zebras Don't Get Ulcers (Third Edition)",
+    "a": "Robert M. Sapolsky",
+    "themes": [
+      "science"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 83,
+    "t": "Master and Commander",
+    "a": "Patrick O'Brian",
+    "themes": [
+      "uncategorized"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 84,
+    "t": "Behave (UK edition)",
+    "a": "Robert M. Sapolsky",
+    "themes": [
+      "science"
+    ],
+    "energy": 2,
+    "length": "long",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 85,
+    "t": "The Body: A Guide for Occupants",
+    "a": "Bill Bryson",
+    "themes": [
+      "science"
+    ],
+    "energy": 1,
+    "length": "long",
+    "rec": false,
+    "note": "Bryson on human anatomy and physiology. Companion to Short History — same warm tone."
+  },
+  {
+    "id": 86,
+    "t": "The Song of the Cell",
+    "a": "Siddhartha Mukherjee",
+    "themes": [
+      "science"
+    ],
+    "energy": 2,
+    "length": "long",
+    "rec": false,
+    "note": "Mukherjee on the cell — newest of his trilogy. Less urgent than Maladies but expansive."
+  },
+  {
+    "id": 87,
+    "t": "Outlive: The Science and Art of Longevity",
+    "a": "Peter Attia",
+    "themes": [
+      "science"
+    ],
+    "energy": 2,
+    "length": "long",
+    "rec": false,
+    "note": "Longevity medicine. Practical, evidence-based, occasionally tedious."
+  },
+  {
+    "id": 88,
+    "t": "Rebecca",
+    "a": "Daphne du Maurier",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 89,
+    "t": "The First Law Trilogy Boxed Set",
+    "a": "Joe Abercrombie",
+    "themes": [
+      "fantasy"
+    ],
+    "energy": 2,
+    "length": "long",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 90,
+    "t": "Collected Works of C. G. Jung, Volume 1: Psychiatric Studies",
+    "a": "C. G. Jung",
+    "themes": [
+      "psychology",
+      "meaning"
+    ],
+    "energy": 2,
+    "length": "long",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 91,
+    "t": "Collected Works of C. G. Jung, Volume 7: Two Essays in Analytical Psychology",
+    "a": "C. G. Jung",
+    "themes": [
+      "psychology",
+      "meaning"
+    ],
+    "energy": 2,
+    "length": "long",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 92,
+    "t": "Blood Meridian",
+    "a": "Cormac McCarthy",
+    "themes": [
+      "horror",
+      "meaning",
+      "classics"
+    ],
+    "energy": 3,
+    "length": "medium",
+    "rec": true,
+    "note": "The deepest, darkest book on your shelf. Meditation on violence and metaphysics disguised as a Western. Demanding prose. Judge Holden is one of literature's great philosophical villains."
+  },
+  {
+    "id": 93,
+    "t": "Frankenstein: The Original 1818 Edition",
+    "a": "Mary Shelley",
+    "themes": [
+      "horror"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 94,
+    "t": "Troilus and Criseyde",
+    "a": "Geoffrey Chaucer",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 95,
+    "t": "The Violet Fairy Book",
+    "a": "Andrew Lang",
+    "themes": [
+      "folklore"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 96,
+    "t": "The Pink Fairy Book",
+    "a": "Andrew Lang",
+    "themes": [
+      "folklore"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 97,
+    "t": "The Republic",
+    "a": "Plato",
+    "themes": [
+      "meaning",
+      "classics"
+    ],
+    "energy": 3,
+    "length": "long",
+    "rec": false,
+    "note": "Where Western philosophy properly begins. Worth tackling slowly."
+  },
+  {
+    "id": 98,
+    "t": "The Yellow Fairy Book",
+    "a": "H. J. Ford",
+    "themes": [
+      "folklore"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 99,
+    "t": "Household Tales by Brothers Grimm",
+    "a": "Jacob Grimm",
+    "themes": [
+      "folklore"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 100,
+    "t": "The Woman in White",
+    "a": "Wilkie Collins",
+    "themes": [
+      "mystery",
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 101,
+    "t": "The Hermann Hesse Collection",
+    "a": "Hermann Hesse",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 102,
+    "t": "The Hero with a Thousand Faces",
+    "a": "Joseph Campbell",
+    "themes": [
+      "psychology",
+      "meaning"
+    ],
+    "energy": 3,
+    "length": "long",
+    "rec": false,
+    "note": "Mythology as psychological map. Extends Jung outward — how the inner journey shows up in every culture's stories. Will reframe a lot of fiction you've already read."
+  },
+  {
+    "id": 103,
+    "t": "Primitive Mythology: The Masks of God Series, Volume I",
+    "a": "Joseph Campbell",
+    "themes": [
+      "psychology",
+      "meaning",
+      "folklore"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 104,
+    "t": "Primitive Mythology (Masks of God Book 1)",
+    "a": "Joseph Campbell",
+    "themes": [
+      "psychology",
+      "meaning",
+      "folklore"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 105,
+    "t": "The Classic Friedrich Nietzsche Collection",
+    "a": "Friedrich Nietzsche",
+    "themes": [
+      "meaning"
+    ],
+    "energy": 3,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 106,
+    "t": "A Tale of Two Cities",
+    "a": "Charles Dickens",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 107,
+    "t": "Oliver Twist",
+    "a": "Charles Dickens",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 108,
+    "t": "Narrative of the Life of Frederick Douglass",
+    "a": "Frederick Douglass",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 109,
+    "t": "Incidents in the Life of a Slave Girl",
+    "a": "Harriet Ann Jacobs",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 110,
+    "t": "Twelve Years a Slave",
+    "a": "Solomon Northup",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 111,
+    "t": "Tales of Norse Mythology",
+    "a": "Hélène A. Guerber",
+    "themes": [
+      "folklore"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 112,
+    "t": "Blood Meridian (Vintage International)",
+    "a": "Cormac McCarthy",
+    "themes": [
+      "classics"
+    ],
+    "energy": 3,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 113,
+    "t": "A Game of Thrones 5-Book Boxed Set",
+    "a": "George R. R. Martin",
+    "themes": [
+      "fantasy"
+    ],
+    "energy": 2,
+    "length": "long",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 114,
+    "t": "The Laws of Human Nature",
+    "a": "Robert Greene",
+    "themes": [
+      "psychology"
+    ],
+    "energy": 2,
+    "length": "long",
+    "rec": false,
+    "note": "Greene mapping human archetypes through history and case study. Sprawling but compelling."
+  },
+  {
+    "id": 115,
+    "t": "The Adventures of Huckleberry Finn",
+    "a": "Mark Twain",
+    "themes": [
+      "classics"
+    ],
+    "energy": 1,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 116,
+    "t": "Common Sense",
+    "a": "Thomas Paine",
+    "themes": [
+      "meaning"
+    ],
+    "energy": 2,
+    "length": "short",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 117,
+    "t": "The Federalist Papers",
+    "a": "Alexander Hamilton",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 118,
+    "t": "Heidi",
+    "a": "Johanna Spyri",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 119,
+    "t": "Modern Man in Search of a Soul",
+    "a": "Carl Gustav Jung",
+    "themes": [
+      "psychology",
+      "meaning"
+    ],
+    "energy": 3,
+    "length": "medium",
+    "rec": false,
+    "note": "Jung's essays on what modern people have lost spiritually. Denser than Man and His Symbols."
+  },
+  {
+    "id": 120,
+    "t": "Awakenings",
+    "a": "Oliver Sacks",
+    "themes": [
+      "psychology",
+      "science"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": "Sacks on patients revived from decades-long sleeping sickness. Profound questions about identity, consciousness, time."
+  },
+  {
+    "id": 121,
+    "t": "The Power of Myth",
+    "a": "Joseph Campbell",
+    "themes": [
+      "psychology",
+      "meaning"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": "Conversations with Bill Moyers — Campbell at his most accessible. Good gateway before Hero with a Thousand Faces."
+  },
+  {
+    "id": 122,
+    "t": "The Iliad",
+    "a": "Homer",
+    "themes": [
+      "classics"
+    ],
+    "energy": 3,
+    "length": "long",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 123,
+    "t": "The Arabian Nights",
+    "a": "Andrew Lang",
+    "themes": [
+      "uncategorized"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 124,
+    "t": "The Prince and the Pauper",
+    "a": "Mark Twain",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 125,
+    "t": "White Fang",
+    "a": "Jack London",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 126,
+    "t": "The Call of the Wild",
+    "a": "Jack London",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 127,
+    "t": "Treasure Island",
+    "a": "Robert Louis Stevenson",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 128,
+    "t": "The War of the Worlds",
+    "a": "H. G. Wells",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 129,
+    "t": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+    "a": "Robert Louis Stevenson",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 130,
+    "t": "On Liberty",
+    "a": "John Stuart Mill",
+    "themes": [
+      "meaning",
+      "classics"
+    ],
+    "energy": 3,
+    "length": "short",
+    "rec": false,
+    "note": "The foundational liberal argument. Still the clearest defense of free thought."
+  },
+  {
+    "id": 131,
+    "t": "Notes from the Underground",
+    "a": "Fyodor Dostoyevsky",
+    "themes": [
+      "meaning",
+      "classics",
+      "psychology"
+    ],
+    "energy": 3,
+    "length": "short",
+    "rec": false,
+    "note": "The first existentialist novel. The narrator's voice will get under your skin."
+  },
+  {
+    "id": 132,
+    "t": "The Age of Innocence",
+    "a": "Edith Wharton",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 133,
+    "t": "The Sorrows of Young Werther",
+    "a": "Johann Wolfgang von Goethe",
+    "themes": [
+      "meaning",
+      "classics"
+    ],
+    "energy": 2,
+    "length": "short",
+    "rec": false,
+    "note": "The novel that started Romanticism and inspired copycat suicides. Brief, intense."
+  },
+  {
+    "id": 134,
+    "t": "Kidnapped",
+    "a": "Robert Louis Stevenson",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 135,
+    "t": "The Beautiful and Damned",
+    "a": "F. Scott Fitzgerald",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 136,
+    "t": "Candide",
+    "a": "Voltaire",
+    "themes": [
+      "meaning",
+      "classics"
+    ],
+    "energy": 2,
+    "length": "short",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 137,
+    "t": "Silas Marner",
+    "a": "George Eliot",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 138,
+    "t": "North and South",
+    "a": "Elizabeth Gaskell",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 139,
+    "t": "My Ántonia",
+    "a": "Willa Cather",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 140,
+    "t": "The Last of the Mohicans",
+    "a": "James Fenimore Cooper",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 141,
+    "t": "Mansfield Park",
+    "a": "Jane Austen",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 142,
+    "t": "The Scarlet Letter",
+    "a": "Nathaniel Hawthorne",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 143,
+    "t": "The Hound of the Baskervilles",
+    "a": "Arthur Conan Doyle",
+    "themes": [
+      "uncategorized"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 144,
+    "t": "Gulliver's Travels",
+    "a": "Jonathan Swift",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 145,
+    "t": "The Phantom of the Opera",
+    "a": "Gaston Leroux",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 146,
+    "t": "Wuthering Heights",
+    "a": "Emily Brontë",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 147,
+    "t": "The Picture of Dorian Gray",
+    "a": "Oscar Wilde",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 148,
+    "t": "Persuasion",
+    "a": "Jane Austen",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 149,
+    "t": "The Adventures of Tom Sawyer",
+    "a": "Mark Twain",
+    "themes": [
+      "classics"
+    ],
+    "energy": 1,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 150,
+    "t": "The Odyssey",
+    "a": "Homer",
+    "themes": [
+      "classics"
+    ],
+    "energy": 3,
+    "length": "long",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 151,
+    "t": "Pride and Prejudice",
+    "a": "Jane Austen",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 152,
+    "t": "Sense and Sensibility",
+    "a": "Jane Austen",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 153,
+    "t": "The Secret Garden",
+    "a": "Frances Hodgson Burnett",
+    "themes": [
+      "classics"
+    ],
+    "energy": 1,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 154,
+    "t": "Great Expectations",
+    "a": "Charles Dickens",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 155,
+    "t": "The Cricket on the Hearth",
+    "a": "Charles Dickens",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 156,
+    "t": "A Christmas Carol",
+    "a": "Charles Dickens",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 157,
+    "t": "Dracula",
+    "a": "Bram Stoker",
+    "themes": [
+      "horror"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 158,
+    "t": "The Moonstone",
+    "a": "Wilkie Collins",
+    "themes": [
+      "mystery",
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 159,
+    "t": "Dubliners",
+    "a": "James Joyce",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 160,
+    "t": "Hard Times",
+    "a": "Charles Dickens",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 161,
+    "t": "Self-Reliance and Other Essays",
+    "a": "Ralph Waldo Emerson",
+    "themes": [
+      "meaning"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 162,
+    "t": "Leaves of Grass",
+    "a": "Walt Whitman",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 163,
+    "t": "Paradise Lost",
+    "a": "John Milton",
+    "themes": [
+      "classics"
+    ],
+    "energy": 3,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 164,
+    "t": "Isaac Bickerstaff, physician and astrologer",
+    "a": "Sir Richard Steele",
+    "themes": [
+      "uncategorized"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 165,
+    "t": "Great Astronomers",
+    "a": "Robert S. Ball",
+    "themes": [
+      "science"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 166,
+    "t": "She Stoops to Conquer",
+    "a": "Oliver Goldsmith",
+    "themes": [
+      "uncategorized"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 167,
+    "t": "The Tell-Tale Heart and Other Stories",
+    "a": "Edgar Allan Poe",
+    "themes": [
+      "horror"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 168,
+    "t": "Lord Jim",
+    "a": "Joseph Conrad",
+    "themes": [
+      "fantasy",
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 169,
+    "t": "A Doll's House",
+    "a": "Henrik Ibsen",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "short",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 170,
+    "t": "Twelfth Night",
+    "a": "William Shakespeare",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 171,
+    "t": "A Midsummer Night's Dream",
+    "a": "William Shakespeare",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 172,
+    "t": "Othello",
+    "a": "William Shakespeare",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 173,
+    "t": "The Tempest",
+    "a": "William Shakespeare",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 174,
+    "t": "The Wind in the Willows",
+    "a": "Kenneth Grahame",
+    "themes": [
+      "uncategorized"
+    ],
+    "energy": 1,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 175,
+    "t": "Emma",
+    "a": "Jane Austen",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 176,
+    "t": "Northanger Abbey",
+    "a": "Jane Austen",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 177,
+    "t": "The Wonderful Wizard of Oz",
+    "a": "L. Frank Baum",
+    "themes": [
+      "classics"
+    ],
+    "energy": 1,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 178,
+    "t": "Peter and Wendy",
+    "a": "J. M. Barrie",
+    "themes": [
+      "classics"
+    ],
+    "energy": 1,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 179,
+    "t": "The Merchant of Venice",
+    "a": "William Shakespeare",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 180,
+    "t": "Beowulf",
+    "a": "Anonymous",
+    "themes": [
+      "uncategorized"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 181,
+    "t": "Heart of Darkness",
+    "a": "Joseph Conrad",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "short",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 182,
+    "t": "The Time Machine",
+    "a": "H. G. Wells",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 183,
+    "t": "Journey to the Center of the Earth",
+    "a": "Jules Verne",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 184,
+    "t": "Around the World in Eighty Days",
+    "a": "Jules Verne",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 185,
+    "t": "The Lost World",
+    "a": "Arthur Conan Doyle",
+    "themes": [
+      "uncategorized"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 186,
+    "t": "Frankenstein",
+    "a": "Mary Shelley",
+    "themes": [
+      "horror",
+      "meaning",
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": "The original meditation on creation, hubris, and what we owe what we make. Holds up."
+  },
+  {
+    "id": 187,
+    "t": "Moby Dick",
+    "a": "Herman Melville",
+    "themes": [
+      "classics"
+    ],
+    "energy": 3,
+    "length": "long",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 188,
+    "t": "Ethics",
+    "a": "Aristotle",
+    "themes": [
+      "meaning"
+    ],
+    "energy": 3,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 189,
+    "t": "On the Origin of Species",
+    "a": "Charles Darwin",
+    "themes": [
+      "science"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 190,
+    "t": "Faust, Part One",
+    "a": "Johann Wolfgang von Goethe",
+    "themes": [
+      "meaning",
+      "classics"
+    ],
+    "energy": 3,
+    "length": "medium",
+    "rec": false,
+    "note": "The bargain with the devil, in verse. The defining German literary work."
+  },
+  {
+    "id": 191,
+    "t": "In Search Of The Miraculous",
+    "a": "P. D. Ouspensky",
+    "themes": [
+      "meaning"
+    ],
+    "energy": 3,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 192,
+    "t": "Beelzebub's Tales to His Grandson",
+    "a": "G. I. Gurdjieff",
+    "themes": [
+      "meaning",
+      "folklore"
+    ],
+    "energy": 3,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 193,
+    "t": "The Fabric of the Cosmos",
+    "a": "Brian Greene",
+    "themes": [
+      "science",
+      "meaning"
+    ],
+    "energy": 3,
+    "length": "long",
+    "rec": false,
+    "note": "Space, time, and the nature of reality. Greene's most philosophical book."
+  },
+  {
+    "id": 194,
+    "t": "Mistborn: The Final Empire",
+    "a": "Brandon Sanderson",
+    "themes": [
+      "fantasy"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 195,
+    "t": "A Matter of Death and Life",
+    "a": "Irvin D. Yalom",
+    "themes": [
+      "psychology",
+      "meaning"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": "Yalom and his wife on her terminal diagnosis. A psychiatrist confronting his own subject matter."
+  },
+  {
+    "id": 196,
+    "t": "The Gift of Therapy",
+    "a": "Irvin Yalom",
+    "themes": [
+      "psychology"
+    ],
+    "energy": 1,
+    "length": "medium",
+    "rec": false,
+    "note": "Yalom's letter to new therapists. Wise, humane, full of clinical insight even for non-therapists."
+  },
+  {
+    "id": 197,
+    "t": "Why We Sleep",
+    "a": "Matthew Walker",
+    "themes": [
+      "science",
+      "psychology"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": "The science of sleep. Some claims have been challenged but the core is solid and unsettling."
+  },
+  {
+    "id": 198,
+    "t": "No Country for Old Men",
+    "a": "Cormac McCarthy",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 199,
+    "t": "Blood and Iron: The Rise and Fall of the German Empire 1871–1918",
+    "a": "Katja Hoyer",
+    "themes": [
+      "history"
+    ],
+    "energy": 2,
+    "length": "long",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 200,
+    "t": "Iron Kingdom: The Rise and Downfall of Prussia",
+    "a": "Christopher Clark",
+    "themes": [
+      "history"
+    ],
+    "energy": 2,
+    "length": "short",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 201,
+    "t": "The Rise and Fall of the Third Reich",
+    "a": "William L. Shirer",
+    "themes": [
+      "history"
+    ],
+    "energy": 2,
+    "length": "long",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 202,
+    "t": "A World Undone",
+    "a": "G. J. Meyer",
+    "themes": [
+      "history"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 203,
+    "t": "The Age of Voltaire",
+    "a": "Will Durant",
+    "themes": [
+      "meaning"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 204,
+    "t": "The Sleepwalkers: How Europe Went to War in 1914",
+    "a": "Christopher Clark",
+    "themes": [
+      "history"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 205,
+    "t": "Think and Grow Rich",
+    "a": "Napoleon Hill",
+    "themes": [
+      "uncategorized"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 206,
+    "t": "The Fall",
+    "a": "Albert Camus",
+    "themes": [
+      "meaning",
+      "classics"
+    ],
+    "energy": 3,
+    "length": "short",
+    "rec": false,
+    "note": "A monologue of self-judgment. Denser than The Stranger, more philosophically loaded."
+  },
+  {
+    "id": 207,
+    "t": "The Laws of Human Nature (audio)",
+    "a": "Robert Greene",
+    "themes": [
+      "psychology"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 208,
+    "t": "The Story of Philosophy",
+    "a": "Will Durant",
+    "themes": [
+      "meaning"
+    ],
+    "energy": 2,
+    "length": "long",
+    "rec": false,
+    "note": "Tour of Western philosophy through its great figures. The classic survey."
+  },
+  {
+    "id": 209,
+    "t": "The Stranger",
+    "a": "Albert Camus",
+    "themes": [
+      "meaning",
+      "classics"
+    ],
+    "energy": 2,
+    "length": "short",
+    "rec": false,
+    "note": "Camus's foundational novel of the absurd. Short, cold, unforgettable."
+  },
+  {
+    "id": 210,
+    "t": "Pale Blue Dot",
+    "a": "Carl Sagan",
+    "themes": [
+      "science",
+      "meaning"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": "The follow-up to Cosmos. More philosophical — what our place in the universe means for how we live."
+  },
+  {
+    "id": 211,
+    "t": "The Elegant Universe",
+    "a": "Brian Greene",
+    "themes": [
+      "science"
+    ],
+    "energy": 3,
+    "length": "long",
+    "rec": false,
+    "note": "String theory explained for civilians. Demanding but rewarding."
+  },
+  {
+    "id": 212,
+    "t": "Carrie",
+    "a": "Stephen King",
+    "themes": [
+      "horror"
+    ],
+    "energy": 1,
+    "length": "short",
+    "rec": false,
+    "note": "King's first novel. Tight, mean, fast."
+  },
+  {
+    "id": 213,
+    "t": "Sapiens: A Brief History of Humankind",
+    "a": "Yuval Noah Harari",
+    "themes": [
+      "history"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 214,
+    "t": "Pet Sematary",
+    "a": "Stephen King",
+    "themes": [
+      "horror"
+    ],
+    "energy": 1,
+    "length": "long",
+    "rec": false,
+    "note": "King's darkest novel — grief turned into horror. Genuinely upsetting in ways most horror isn't."
+  },
+  {
+    "id": 215,
+    "t": "It",
+    "a": "Stephen King",
+    "themes": [
+      "horror"
+    ],
+    "energy": 2,
+    "length": "long",
+    "rec": false,
+    "note": "Massive, sprawling. As much about childhood and memory as it is about the monster."
+  },
+  {
+    "id": 216,
+    "t": "The Man Who Mistook His Wife for a Hat",
+    "a": "Oliver Sacks",
+    "themes": [
+      "psychology",
+      "science"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": "Clinical tales of neurological oddity. Each chapter a self-contained case study. Humanistic and strange."
+  },
+  {
+    "id": 217,
+    "t": "Perfect English Grammar",
+    "a": "Grant Barrett",
+    "themes": [
+      "uncategorized"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 218,
+    "t": "QED: The Strange Theory of Light and Matter",
+    "a": "Richard P. Feynman",
+    "themes": [
+      "science"
+    ],
+    "energy": 2,
+    "length": "short",
+    "rec": false,
+    "note": "Feynman explaining quantum electrodynamics in plain language. Famously clear, surprisingly fun."
+  },
+  {
+    "id": 219,
+    "t": "Creatures of a Day",
+    "a": "Irvin Yalom",
+    "themes": [
+      "psychology",
+      "meaning"
+    ],
+    "energy": 1,
+    "length": "short",
+    "rec": false,
+    "note": "Tales from Yalom's psychotherapy practice. Each story stands alone."
+  },
+  {
+    "id": 220,
+    "t": "Breaking the Habit of Being Yourself",
+    "a": "Joe Dispenza",
+    "themes": [
+      "psychology"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 221,
+    "t": "Civilization of the Middle Ages",
+    "a": "Norman F. Cantor",
+    "themes": [
+      "history"
+    ],
+    "energy": 2,
+    "length": "long",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 222,
+    "t": "The Walking Dead Compendium Vol. 1",
+    "a": "Robert Kirkman",
+    "themes": [
+      "uncategorized"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 223,
+    "t": "Notre-Dame de Paris",
+    "a": "Victor Hugo",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 224,
+    "t": "Hallucinations",
+    "a": "Oliver Sacks",
+    "themes": [
+      "psychology",
+      "science",
+      "horror"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": "On the strange visions of the brain — sane people seeing impossible things. Where neuroscience meets the uncanny."
+  },
+  {
+    "id": 225,
+    "t": "Cosmos",
+    "a": "Carl Sagan",
+    "themes": [
+      "science",
+      "meaning"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": "Sagan at his most expansive. Science as poetry, the cosmic perspective rendered humane."
+  },
+  {
+    "id": 226,
+    "t": "The Sandman, The Nutcracker, and Other Dark Fairy Tales",
+    "a": "E. T. A. Hoffmann",
+    "themes": [
+      "horror",
+      "folklore"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 227,
+    "t": "Gargantua and Pantagruel",
+    "a": "Francois Rabelais",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 228,
+    "t": "The Prose Edda: Norse Mythology",
+    "a": "Jesse L. Byock",
+    "themes": [
+      "folklore"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 229,
+    "t": "Grimm's Complete Fairy Tales",
+    "a": "Brothers Grimm",
+    "themes": [
+      "folklore"
+    ],
+    "energy": 2,
+    "length": "long",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 230,
+    "t": "Hans Christian Andersen's Complete Fairy Tales",
+    "a": "Hans Christian Andersen",
+    "themes": [
+      "folklore"
+    ],
+    "energy": 2,
+    "length": "long",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 231,
+    "t": "Meditations",
+    "a": "Marcus Aurelius",
+    "themes": [
+      "meaning"
+    ],
+    "energy": 2,
+    "length": "short",
+    "rec": false,
+    "note": "A Roman emperor's private notes to himself. Stoic philosophy at its most personal."
+  },
+  {
+    "id": 232,
+    "t": "The 80/20 Principle",
+    "a": "Richard Koch",
+    "themes": [
+      "uncategorized"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 233,
+    "t": "The House of Souls",
+    "a": "Arthur Machen",
+    "themes": [
+      "horror",
+      "meaning"
+    ],
+    "energy": 3,
+    "length": "medium",
+    "rec": false,
+    "note": "Influenced Lovecraft and Borges. Mystical horror — the supernatural breaking through ordinary reality. Strange and unsettling in a thoughtful way."
+  },
+  {
+    "id": 234,
+    "t": "Do Androids Dream of Electric Sheep?",
+    "a": "Philip K. Dick",
+    "themes": [
+      "uncategorized"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 235,
+    "t": "Nietzsche's Views on God, Religion & Suffering",
+    "a": "Friedrich Nietzsche",
+    "themes": [
+      "meaning"
+    ],
+    "energy": 3,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 236,
+    "t": "Designing Data-Intensive Applications",
+    "a": "Martin Kleppmann",
+    "themes": [
+      "technical"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 237,
+    "t": "The Complete Works of Nietzsche",
+    "a": "Friedrich Nietzsche",
+    "themes": [
+      "meaning"
+    ],
+    "energy": 3,
+    "length": "long",
+    "rec": false,
+    "note": "Includes Zarathustra, Birth of Tragedy, Human All Too Human. A lifetime of reading in one volume."
+  },
+  {
+    "id": 238,
+    "t": "Team Guide to Software Testability",
+    "a": "Ash Winter",
+    "themes": [
+      "technical"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 239,
+    "t": "Learn Polish: A Comprehensive Guide",
+    "a": "Simple Language Learning",
+    "themes": [
+      "technical"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 240,
+    "t": "Beyond Good and Evil",
+    "a": "Friedrich Nietzsche",
+    "themes": [
+      "meaning"
+    ],
+    "energy": 3,
+    "length": "medium",
+    "rec": false,
+    "note": "Nietzsche at his most acidic and aphoristic. Demanding but the sentences detonate."
+  },
+  {
+    "id": 241,
+    "t": "The Invisible Man",
+    "a": "H. G. Wells",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 242,
+    "t": "Hamlet",
+    "a": "William Shakespeare",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 243,
+    "t": "Macbeth",
+    "a": "William Shakespeare",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 244,
+    "t": "Clean Architecture",
+    "a": "Robert C. Martin",
+    "themes": [
+      "technical"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 245,
+    "t": "1984",
+    "a": "George Orwell",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 246,
+    "t": "You Don't Know JS Yet: Get Started",
+    "a": "Kyle Simpson",
+    "themes": [
+      "uncategorized"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 247,
+    "t": "Automate the Boring Stuff with Python",
+    "a": "Al Sweigart",
+    "themes": [
+      "technical"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 248,
+    "t": "Python Crash Course",
+    "a": "Eric Matthes",
+    "themes": [
+      "technical"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 249,
+    "t": "Effective Java",
+    "a": "Joshua Bloch",
+    "themes": [
+      "technical"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 250,
+    "t": "Java: Learn Java in One Day",
+    "a": "LCF Publishing",
+    "themes": [
+      "technical"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 251,
+    "t": "Lessons Learned in Software Testing",
+    "a": "Bret Pettichord",
+    "themes": [
+      "technical"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 252,
+    "t": "Fifty Quick Ideas To Improve Your Tests",
+    "a": "Gojko Adzic",
+    "themes": [
+      "uncategorized"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 253,
+    "t": "Sherlock Holmes: The Complete Collection",
+    "a": "Arthur Conan Doyle",
+    "themes": [
+      "mystery"
+    ],
+    "energy": 1,
+    "length": "long",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 254,
+    "t": "The Early Cases of Hercule Poirot",
+    "a": "Agatha Christie",
+    "themes": [
+      "mystery"
+    ],
+    "energy": 1,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 255,
+    "t": "Sherlock Holmes : Complete Collection",
+    "a": "Arthur Conan Doyle",
+    "themes": [
+      "mystery"
+    ],
+    "energy": 1,
+    "length": "long",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 256,
+    "t": "H. P. Lovecraft: The Complete Fiction",
+    "a": "H. P. Lovecraft",
+    "themes": [
+      "horror"
+    ],
+    "energy": 2,
+    "length": "long",
+    "rec": false,
+    "note": "Cosmic horror in its fullest form. Uneven prose but the ideas are unmatched."
+  },
+  {
+    "id": 257,
+    "t": "1500 Eternal Masterpieces Of Fairy Tales",
+    "a": "Hans Christian Andersen",
+    "themes": [
+      "folklore"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 258,
+    "t": "Franz Kafka: The Complete Novels",
+    "a": "Franz Kafka",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "long",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 259,
+    "t": "William Shakespeare: The Complete Works",
+    "a": "William Shakespeare",
+    "themes": [
+      "classics"
+    ],
+    "energy": 2,
+    "length": "long",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 260,
+    "t": "Edgar Allan Poe: Complete Tales and Poems",
+    "a": "Edgar Allan Poe",
+    "themes": [
+      "horror",
+      "classics"
+    ],
+    "energy": 2,
+    "length": "long",
+    "rec": false,
+    "note": "The grandfather of psychological horror. Tales of the Grotesque endure for a reason."
+  },
+  {
+    "id": 261,
+    "t": "Pro Git",
+    "a": "Scott Chacon",
+    "themes": [
+      "technical"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  },
+  {
+    "id": 262,
+    "t": "You Don't Know JS: Up & Going",
+    "a": "Kyle Simpson",
+    "themes": [
+      "uncategorized"
+    ],
+    "energy": 2,
+    "length": "medium",
+    "rec": false,
+    "note": ""
+  }
+]
